@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "title": "Iphone X",
+      "des": "Good condition , 128gb and High Quailty Camera ",
+      "brand": "egrtymuyjhtgr",
+      "price": "100k",
+      "location": "Lahore,Pakistan",
+      "name": "ertymun",
+      "image": "../src/pics/download.png",
+      "id": 1
+    },
+    {
+      "title": "Iphone 12",
+      "des": "Good condition , 128gb and High Quailty Camera ",
+      "brand": "wvscax",
+      "price": "50K",
+      "location": "Faislabad,Pakistan",
+      "name": "WVF",
+      "image": "../src/pics/download.png",
+      "id": 2
+    },
+    {
+      "des": "Good condition , 128gb and High Quailty Camera ",
+      "title": "Iphone 13",
+      "brand": "wvscax",
+      "price": "500K",
+      "location": "Peshawar,Pakistan",
+      "name": "WVF",
+      "image": "../src/pics/download.png",
+      "id": 3
+    },
+    {
+      "title": "Iphone 11 pro max",
+      "des": "Good condition , 128gb and High Quailty Camera ",
+      "brand": "apple",
+      "price": "50K",
+      "location": "Lahore,Pakistan",
+      "name": "ahmad",
+      "image": "../src/pics/download.png",
+      "id": 4
+    },
+    {
+      "title": "Iphone XS",
+      "des": "Good condition , 128gb and High Quailty Camera ",
+      "brand": "cgh",
+      "price": "200k",
+      "location": "Faislabad,Pakistan",
+      "name": "g",
+      "id": 5
+    },
+    {
+      "title": "Iphone X",
+      "des": "Good condition , 128gb and High Quailty Camera ",
+      "brand": "egrtymuyjhtgr",
+      "price": "100k",
+      "location": "Multan,Pakistan",
+      "name": "ertymun",
+      "image": "../src/pics/aa.png",
+      "id": 1
+    },
+    {
+      "title": "Iphone 12",
+      "des": "Good condition , 128gb and High Quailty Camera ",
+      "brand": "wvscax",
+      "price": "300k",
+      "location": "Peshawar,Pakistan",
+      "name": "WVF",
+      "image": "../src/pics/download.png",
+      "id": 2
+    },
+    {
+      "des": "Good condition , 128gb and High Quailty Camera ",
+      "title": "Iphone 13",
+      "brand": "400k",
+      "price": "csx",
+      "location": "Multan,Pakistan",
+      "name": "WVF",
+      "image": "../src/pics/download.png",
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "title": "Iphone X",
+      "des": "Good condition , 128gb and High Quailty Camera ",
+      "brand": "egrtymuyjhtgr",
+      "price": "100k",
+      "location": "Lahore,Pakistan",
+      "name": "ertymun",
+      "image": "../src/pics/download.png",
+      "id": 1
+    },
+    {
+      "title": "Iphone 12",
+      "des": "Good condition , 128gb and High Quailty Camera ",
+      "brand": "wvscax",
+      "price": "50K",
+      "location": "Faislabad,Pakistan",
+      "name": "WVF",
+      "image": "../src/pics/download.png",
+      "id": 2
+    },
+    {
+      "title": "Iphone XS",
+      "des": "Good condition , 256 Gb and High Quailty Camera  ",
+      "brand": "",
+      "price": "200k",
+      "location": "Multan,Pakistan",
+      "name": "",
+      "id": 3
+    },
+    {
+      "title": "Iphone 11 pro max",
+      "des": "128 Gb , Good Condition  and High Quailty Camera ",
+      "brand": "",
+      "price": "170k",
+      "location": "Lahore,Pakistan",
+      "name": "",
+      "id": 4
+    },
+    {
+      "title": "Iphone 12 pro max",
+      "des": "256 Gb , Good Condition  and High Quailty Camera ",
+      "brand": "",
+      "price": "190k",
+      "location": "Lahore,Pakistan",
+      "name": "",
+      "id": 4
+    },
+    {
+      "title": "Iphone X",
+      "des": "Good Quality 256 Gb phone with great camera",
+      "brand": "",
+      "price": "120K",
+      "location": "Multan,Pakistan",
+      "name": "",
+      "id": 5
+    },
+    {
+      "title": "rthjyu8k",
+      "des": "tyu",
+      "brand": "ty78ui",
+      "price": "23456",
+      "location": "Lahore,Pakistan",
+      "name": "dfgtyhu",
+      "id": 6
+    }
+  ]
+}
